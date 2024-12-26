@@ -1,2 +1,6 @@
 git config user.name "jhon doe"
+create 3 file 
 git log --since="2024-12-25" until="2024-12-26" --author="jhon doe"
+
+create 4 file 
+git log --pretty=format:"%h - %an, %ar : %s"
