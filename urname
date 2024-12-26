@@ -1,3 +1,17 @@
+
+
+(05)= clone
+file creating
+new brancch creating
+then file creating 
+then git checkout main
+git rebase file name
+
+(06)=  clone=>file creating=>branch creating=>2nd file creating =>git heckout main =>git merge branch name
+
+
+
+
 git config user.name "jhon doe"
 create 3 file 
 git log --since="2024-12-25" until="2024-12-26" --author="jhon doe"
