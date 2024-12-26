@@ -7,9 +7,10 @@ then file creating
 then git checkout main
 git rebase file name
 
-(06)=  clone=>file creating=>branch creating=>2nd file creating =>git heckout main =>git merge branch name
+(06)=  clone=>file creating=>branch creating=>2nd file creating =>git heckout main =>git merge branch name =>git branch --merged
+git log --oneline --graph --all --decorate --simplify-by-decoration
 
-
+(07)=clone =>
 
 
 git config user.name "jhon doe"
